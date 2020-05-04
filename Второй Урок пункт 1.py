@@ -7,4 +7,3 @@ for i in list_lesson_two:
     print (f"Элемент номер {a} списка имеет тип {type_list}")
     a = a + 1
     # print(type(i))
-    # print(type(i))
