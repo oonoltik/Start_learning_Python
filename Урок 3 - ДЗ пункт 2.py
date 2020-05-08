@@ -1,0 +1,3 @@
+def second_func (name, surname, birthdate, homecity, email, phone):
+    print( f"Данные пользователя: Имя - {name} ; Фамилия - {surname} ; Дата рождения - {birthdate} ; Город проживания - {homecity} ; E-mail - {email}; Телефон - {phone}" )
+second_func(name= input("Введите Ваше имя:") , surname= input("Введите Вашу фамилию:") , birthdate= input("Введите Вашу дату рождения"), homecity= input("Введите город проживания:"), email= input("Введите Ваш e-mail:"), phone= input("Введите Ваш телефон:") )
