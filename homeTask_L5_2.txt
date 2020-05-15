@@ -1,0 +1,4 @@
+Hello, my second.txt file!
+We need to calculate some information:
+How much strings we have here?
+How much words we have in each string?
